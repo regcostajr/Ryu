@@ -8,6 +8,7 @@ use Test::EOL;
 
 my @files = (
     'lib/Ryu.pm',
+    'lib/Ryu/Buffer.pm',
     'lib/Ryu/Exception.pm',
     'lib/Ryu/Manual/ETL.pod',
     'lib/Ryu/Manual/Protocol.pod',

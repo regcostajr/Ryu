@@ -1,5 +1,12 @@
 Revision history for Ryu
 
+0.035     2019-01-02 01:37:38+08:00 Asia/Kuala_Lumpur
+    No new features.
+
+    Bugs fixed:
+
+    - dist.ini file should now be included, thanks Grinnz
+
 0.034     2019-01-02 00:19:29+08:00 Asia/Kuala_Lumpur
     Bugs fixed:
 

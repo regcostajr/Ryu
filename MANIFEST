@@ -7,6 +7,7 @@ META.yml
 Makefile.PL
 README
 cpanfile
+dist.ini
 doc/classes.dot
 doc/protocol.md
 doc/stream.md
@@ -15,6 +16,7 @@ doc/transform.png
 examples/count_lines.pl
 examples/synopsis.pl
 lib/Ryu.pm
+lib/Ryu/Buffer.pm
 lib/Ryu/Exception.pm
 lib/Ryu/Manual/ETL.pod
 lib/Ryu/Manual/Protocol.pod
